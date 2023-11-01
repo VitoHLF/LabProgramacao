@@ -1,0 +1,1 @@
+Exemplos de uso da classe RunTimer declarada em runTimer.h
