@@ -6,7 +6,7 @@
 
 #include <Stepper.h>
 
-#define delayMotTime 4
+#define delayMotTime 5
 
 #define pinMot1 8
 #define pinMot2 9
