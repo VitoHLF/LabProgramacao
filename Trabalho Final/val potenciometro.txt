@@ -1,0 +1,2 @@
+180 pinPotenciometro baixo
+130 pinPotenciometro alto
